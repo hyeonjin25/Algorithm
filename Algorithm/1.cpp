@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//전역변수로 선언하면 0으로 초기화!
+//전역변수로 선언하면 모두 0으로 초기화!
 
 int arr[5];
 
